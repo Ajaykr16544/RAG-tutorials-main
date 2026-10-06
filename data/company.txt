@@ -1,0 +1,11 @@
+NovaTech Innovations
+
+NovaTech Innovations is a technology company focused on cloud computing, artificial intelligence, software development, and DevOps solutions.
+
+The company was founded in 2018 and provides cloud migration, application development, DevOps automation, and AI-powered solutions to businesses.
+
+NovaTech Innovations uses technologies such as Python, JavaScript, Docker, Kubernetes, AWS, Terraform, and MongoDB.
+
+The company has its headquarters in Bengaluru, India.
+
+NovaTech Innovations focuses on helping businesses improve their applications, automate infrastructure, and adopt modern cloud technologies.

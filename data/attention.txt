@@ -1,0 +1,22 @@
+Attention Mechanism
+
+Attention mechanism is a technique used in deep learning and
+Natural Language Processing (NLP) that allows a model to focus
+on the most important parts of the input.
+
+It helps the model understand which words or tokens are more
+important when processing a sentence.
+
+Attention is a key component of Transformer models. It is used
+in modern AI systems such as language models.
+
+For example, in the sentence "The animal did not cross the
+road because it was tired", attention helps the model understand
+that "it" refers to the animal.
+
+Self-attention allows each token in a sequence to look at other
+tokens and determine how strongly they are related.
+
+The main purpose of attention is to capture relationships between
+different parts of the input and improve the quality of the
+model's understanding.
